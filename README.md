@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hello world, meu nome é Kauan Daniel</h1>
 
-<!--
-**wolves-max/wolves-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante, técnico de desenvolvimento de sistema e amante de RPG 🎲
 
-Here are some ideas to get you started:
+### Interesses 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Jogador e mestre de RPG de mesa 📄
+- jogo vôlei 🏐
+- jogo jogos de vídeo game 🎮
+
+  ### Habilidades ✨
+
+  [![Python](https://img.shields.io/badge/Python-4584b6?style=plastic)](#)
